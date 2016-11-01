@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "scripts": {
     "build": "babel src/ -d lib/",
-    "lint": "eslint index.jsx"
+    "lint": "eslint src/"
   },
   "repository": {
     "type": "git",
