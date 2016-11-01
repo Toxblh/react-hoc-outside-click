@@ -1,6 +1,8 @@
 # React HOC OutsideClick
 A Higher Order Component wrapper to provide click outside functionality to the components
 
+[![npm version](https://badge.fury.io/js/react-hoc-outside-click.svg)](https://badge.fury.io/js/react-hoc-outside-click)
+
 ### How to use
 
 1. Import `ClickOutside` component

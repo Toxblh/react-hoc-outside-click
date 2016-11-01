@@ -2,9 +2,9 @@
   "name": "react-hoc-outside-click",
   "version": "1.0.2",
   "description": "React HOC OutsideClick",
-  "main": "lib/index.js",
+  "main": "./lib/index.js",
   "scripts": {
-    "build": "babel index.jsx -d lib",
+    "build": "babel src/ -d lib/",
     "lint": "eslint index.jsx"
   },
   "repository": {
@@ -13,16 +13,16 @@
   },
   "keywords": [
     "react",
+    "click outside",
     "click",
     "outside",
     "onclickoutside",
     "click-outside",
+    "clickaway",
+    "away",
     "hoc",
     "higher",
     "order",
-    "component",
-    "clickaway",
-    "away",
     "component"
   ],
   "author": "Anton Palgunov <toxblh@gmail.com>",
