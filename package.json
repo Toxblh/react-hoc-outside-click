@@ -1,0 +1,46 @@
+{
+  "name": "react-hoc-outside-click",
+  "version": "1.0.0",
+  "description": "React HOC OutsideClick",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel index.jsx -d lib",
+    "lint": "eslint index.jsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Toxblh/react-hoc-outside-click.git"
+  },
+  "keywords": [
+    "react",
+    "hoc",
+    "click",
+    "outside",
+    "higher",
+    "order",
+    "component",
+    "onclickoutside",
+    "click-outside",
+    "click",
+    "outside",
+    "clickaway",
+    "away",
+    "component"
+  ],
+  "author": "Anton Palgunov <toxblh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Toxblh/react-hoc-outside-click/issues"
+  },
+  "homepage": "https://github.com/Toxblh/react-hoc-outside-click#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-transform-class-properties": "^6.18.0",
+    "babel-plugin-transform-object-rest-spread": "^6.16.0",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "eslint": "^3.9.1",
+    "eslint-plugin-react": "^6.4.1",
+    "react": "^15.3.2"
+  }
+}
