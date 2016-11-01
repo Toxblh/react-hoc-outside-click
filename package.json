@@ -1,6 +1,6 @@
 {
   "name": "react-hoc-outside-click",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React HOC OutsideClick",
   "main": "./lib/index.js",
   "scripts": {
