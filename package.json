@@ -1,6 +1,6 @@
 {
   "name": "react-hoc-outside-click",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React HOC OutsideClick",
   "main": "lib/index.js",
   "scripts": {
@@ -13,16 +13,14 @@
   },
   "keywords": [
     "react",
-    "hoc",
     "click",
     "outside",
+    "onclickoutside",
+    "click-outside",
+    "hoc",
     "higher",
     "order",
     "component",
-    "onclickoutside",
-    "click-outside",
-    "click",
-    "outside",
     "clickaway",
     "away",
     "component"
