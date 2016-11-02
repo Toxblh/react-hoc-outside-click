@@ -5,8 +5,8 @@ A Higher Order Component wrapper to provide click outside functionality to the c
 
 ### How to use
 
-1. Import `ClickOutside` component
-2. Wrap your main component with the `ClickOutside`
+1. Import `clickOutside` component
+2. Wrap your main component with function the `clickOutside`
 3. Provide an `onClickOutside` callback.
 
 ### Example
