@@ -1,7 +1,9 @@
 # React HOC OutsideClick
 A Higher Order Component wrapper to provide click outside functionality to the components
 
-[![npm version](https://badge.fury.io/js/react-hoc-outside-click.svg)](https://badge.fury.io/js/react-hoc-outside-click)
+[![Latest Stable Version](https://img.shields.io/npm/v/react-hoc-outside-click.svg)](https://www.npmjs.com/package/react-hoc-outside-click)
+[![License](https://img.shields.io/npm/l/react-hoc-outside-click.svg)](https://www.npmjs.com/package/react-hoc-outside-click)
+[![NPM Downloads](https://img.shields.io/npm/dt/react-hoc-outside-click.svg)](https://www.npmjs.com/package/react-hoc-outside-click)
 
 ### How to use
 
