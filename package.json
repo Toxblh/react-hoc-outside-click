@@ -37,8 +37,8 @@
     "babel-plugin-transform-object-rest-spread": "^6.16.0",
     "babel-preset-latest": "^6.16.0",
     "babel-preset-react": "^6.16.0",
-    "eslint": "^3.9.1",
-    "eslint-plugin-react": "^6.4.1",
-    "react": "^15.3.2"
+    "eslint": "^4.16.0",
+    "eslint-plugin-react": "^7.5.1",
+    "react": "^16.2.0"
   }
 }
