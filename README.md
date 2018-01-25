@@ -1,4 +1,6 @@
 # React HOC OutsideClick
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Toxblh/react-hoc-outside-click.svg)](https://greenkeeper.io/)
 A Higher Order Component wrapper to provide click outside functionality to the components
 
 [![Latest Stable Version](https://img.shields.io/npm/v/react-hoc-outside-click.svg)](https://www.npmjs.com/package/react-hoc-outside-click)
